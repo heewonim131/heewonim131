@@ -1,8 +1,6 @@
 <div align="center">
   
 ## Hello, I'm Heewon! 👋
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fheewonim131&count_bg=%23EFB8B8&title_bg=%23F57B7B&icon=&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <img src="https://user-images.githubusercontent.com/92259017/147581919-e017bccd-6a8d-4794-9182-23c8a06c9513.gif" style="width:50%;height:50%">
 
